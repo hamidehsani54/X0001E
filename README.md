@@ -13,3 +13,14 @@ Do you want to test it?
 Download any model you want and upload it on your google colab directory or copy past the code in your google colab file and run it. 
 
 
+# Running time based on different device 
+| Model         | Device        | Total Processing time (sec) |
+| ------------- |:-------------:| ---------------------------:|
+| Pytesseract   | CPU           | 24.185                      |
+| EasyOCR       | CPU           | 171.275                     |
+| docTR         | CPU           | 64.741                      |
+| KerasOCR      | CPU           | 309.529                     |
+| Pytesseract   | A100 GPU      | 6.259                       |
+| EasyOCR       | A100 GPU      | 15.137                      |
+| docTR         | A100 GPU      | 27.403                      |
+| KerasOCR      | A100 GPU      | 24.213                      |
