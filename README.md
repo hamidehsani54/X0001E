@@ -22,5 +22,5 @@ Download any model you want and upload it on your google colab directory or copy
 | KerasOCR      | CPU           | 309.529                     |
 | Pytesseract   | A100 GPU      | 6.259                       |
 | EasyOCR       | A100 GPU      | 15.137                      |
-| docTR         | A100 GPU      | 27.403                      |
+| docTR         | A100 GPU      | 21.288                      |
 | KerasOCR      | A100 GPU      | 24.213                      |
