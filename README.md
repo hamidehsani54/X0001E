@@ -29,7 +29,7 @@ Download any model you want and upload it on your google colab directory or copy
 * Donwload the code
 * Install Google Colab
 * Upload the file/files in your Google Drive
-* Upload a file
+* Upload the file that you want to convert it to machine readble fortmat
 * Modify the file path
 * Ready to go ✌️
 
