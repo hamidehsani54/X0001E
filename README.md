@@ -24,3 +24,13 @@ Download any model you want and upload it on your google colab directory or copy
 | EasyOCR       | A100 GPU      | 15.137                      |
 | docTR         | A100 GPU      | 21.288                      |
 | KerasOCR      | A100 GPU      | 24.213                      |
+
+# To run the code 
+* Donwload the code
+* Install Google Colab
+* Upload the file/files in your Google Drive
+* Upload a file
+* Modify the file path
+* Ready to go ✌️
+
+
